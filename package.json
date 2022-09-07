@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cypress": "^10.7.0"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.2.2"
+  },
+  "scripts": {
+    "test:LoginPage": "cypress run --spec cypress/e2e/LoginPage.cy.js --browser chrome --headed"
+  }
+}
