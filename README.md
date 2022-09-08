@@ -7,10 +7,7 @@ The same thing applies to screenshots and recorded videos. Everything can be con
 After using the `CYPRESS`, probably i would never use the `WDIO` again. I'll provide the comparison table at the end of this `README`, and you will understand everything by yourself.  
 
 ## Requirements
-You need to have one of the following browsers installed on your system:
-- `Google Chrome v64` or above
-- `Edge v79` or above
-- `Firefox v86` or above.
+You need to have the `Google Chrome v64` browser installed on your PC, otherwise, the tests will be run in the headless mode.
 
 
 ## Installation
